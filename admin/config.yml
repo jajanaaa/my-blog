@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: main
+  identity_url: "https://blog.janapodgajewska.com/.netlify/identity"
+  git_gateway_url: "https://blog.janapodgajewska.com/.netlify/git"
 
 media_folder: "static/img"
 public_folder: "/img"
